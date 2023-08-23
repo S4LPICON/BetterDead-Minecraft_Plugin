@@ -1,4 +1,3 @@
 # Plugins-Minecraft
-Plugins que estoy desarrollando (Tambien dejo la carpeta principal)
-
+Plugins that I am developing (I also leave the main folder)
 
